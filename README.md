@@ -1,2 +1,2 @@
 # mvn_shoppingcart
-This is Maven Project of Shoppingcart
+This is Maven Project of Shoppingcart test
